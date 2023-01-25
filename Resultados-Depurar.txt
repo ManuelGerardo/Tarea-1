@@ -1,0 +1,40 @@
+﻿'Tarea 1.exe' (Win32): 'C:\Users\manue\source\repos\Tarea 1\x64\Debug\Tarea 1.exe' cargado. Símbolos cargados.
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\ntdll.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\kernel32.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\KernelBase.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\msvcp140d.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\ole32.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\msvcp_win.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\ucrtbase.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\gdi32.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\win32u.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\gdi32full.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\user32.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\combase.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\rpcrt4.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\vcomp140d.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\vcruntime140_1d.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\vcruntime140d.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\ucrtbased.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\imm32.dll' cargado. 
+El subproceso 0x1128 terminó con código 0 (0x0).
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\kernel.appcore.dll' cargado. 
+'Tarea 1.exe' (Win32): 'C:\Windows\System32\msvcrt.dll' cargado. 
+El subproceso 0x1374 terminó con código 0 (0x0).
+El subproceso 0x28f4 terminó con código 0 (0x0).
+El subproceso 0x4c2c terminó con código 0 (0x0).
+El subproceso 0xd88 terminó con código 0 (0x0).
+El subproceso 0x36f8 terminó con código 0 (0x0).
+El subproceso 0x4fe0 terminó con código 0 (0x0).
+El subproceso 0x3e6c terminó con código 0 (0x0).
+El subproceso 0x17d4 terminó con código 0 (0x0).
+El subproceso 0x2cd0 terminó con código 0 (0x0).
+El subproceso 0x2e38 terminó con código 0 (0x0).
+El subproceso 0x2044 terminó con código 0 (0x0).
+El subproceso 0x480 terminó con código 0 (0x0).
+El subproceso 0xee4 terminó con código 0 (0x0).
+El subproceso 0x430 terminó con código 0 (0x0).
+El subproceso 0x4bc0 terminó con código 0 (0x0).
+El subproceso 0x1b30 terminó con código 0 (0x0).
+El subproceso 0x40a4 terminó con código 0 (0x0).
+El programa '[18244] Tarea 1.exe' terminó con código 0 (0x0).
